@@ -13,15 +13,6 @@ prayer: ''
 summary: ''
 verses:
 - ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
 EOF
   echo "... create $filename"
 fi
